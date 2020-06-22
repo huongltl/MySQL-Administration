@@ -20,3 +20,17 @@ git add .
 git reset HEAD .
 
 git checkout -- command.txt
+
+-- BRANCH
+git branch
+
+# create new branch
+# -b <-> branch
+git checkout -b new-branch
+
+# changing to master
+git checkout master
+
+# chaging to new-branch
+git checkout new-branch
+
