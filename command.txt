@@ -1,0 +1,12 @@
+echo "# MySQL-Administration" >> README.md
+
+git init
+
+git add README.md
+git commit -m "first commit"
+
+git remote add origin git@github.com:huongltl/MySQL-Administration.git
+
+git push -u origin master
+
+git status
