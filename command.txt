@@ -26,11 +26,26 @@ git branch
 
 # create new branch
 git checkout -b new-branch
+git checkout new-branch
+git branch new-branch
+
 
 # changing to master 
 git checkout master
 
 # chaging to new-branch
 git checkout new-branch
+
+#merge master -> new-branch
+git checkout master
+git merge new-branch
+
+#merge new-branch -> master
+git checkout new-branch
+git merge master
+
+
+
+
 
 
