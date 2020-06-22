@@ -1,3 +1,6 @@
+Git config --global user.name "huongltl"
+Git config --global user.email "huongleft@icloud.com"
+
 echo "# MySQL-Administration" >> README.md
 
 git init
