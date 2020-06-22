@@ -37,12 +37,12 @@ git checkout master
 git checkout new-branch
 
 #merge master -> new-branch
-git checkout master
-git merge new-branch
-
-#merge new-branch -> master
 git checkout new-branch
 git merge master
+
+#merge new-branch -> master
+git checkout master
+git merge new-branch
 
 
 
