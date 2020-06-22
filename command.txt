@@ -1,5 +1,5 @@
-Git config --global user.name "huongltl"
-Git config --global user.email "huongleft@icloud.com"
+git config --global user.name "huongltl"
+git config --global user.email "huongleft@icloud.com"
 
 echo "# MySQL-Administration" >> README.md
 
@@ -14,3 +14,9 @@ git push -u origin master
 
 git status
 
+
+rm command.txt
+git add .
+git reset HEAD .
+
+git checkout -- command.txt
