@@ -1,3 +1,3 @@
-# MySQL-Administration
+# Git Essentials / Git For everybody
 
-# test
+this is a course to teach you how to use everyday git.
