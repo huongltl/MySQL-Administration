@@ -1,5 +1,6 @@
 # MySQL-Administration
 
+<<<<<<< HEAD
 ## About data.png				
 
 ## [DDL]Trigger.sql	
@@ -25,3 +26,6 @@
 ## original.pdf
 
 ## README.md
+=======
+# new
+>>>>>>> a75ec2714173f69fb43e1ca501df0006362e7030
