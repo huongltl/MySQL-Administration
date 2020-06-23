@@ -47,6 +47,8 @@ git merge new-branch
 #pull
 git pull origin master
 
+#元ファイルを編集
+
 
 
 
