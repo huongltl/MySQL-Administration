@@ -48,8 +48,6 @@ git merge new-branch
 git pull origin master
 
 #元ファイルを編集
-git pull origin master
-git fetch origin master && git merge origin master
 #fetch (get log oneline)
 git log 
 git fetch origin master 
@@ -58,8 +56,8 @@ git log --oneline --all
 git log --oneline --decorate --all --graph 
 git log --topo-order --date=local --all --graph 
 
-#merge (get update)
-git merge origin master
+#pull (get update)
+git pull origin master
 
 git log
 ls -la
